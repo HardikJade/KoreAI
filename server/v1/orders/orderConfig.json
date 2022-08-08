@@ -1,0 +1,11 @@
+{
+    "orderStatus": {
+        "default": "placed",
+        "values": [
+            "placed",
+            "packed",
+            "dispatched",
+            "delivered"
+        ]
+    }
+}
